@@ -59,14 +59,5 @@ The study was conducted in two distinct phases: **Mathematics** (The Toolset) an
 
 ---
 
-## 🔬 Applied Project: Quantum Entanglement Simulation
-The theoretical knowledge gathered in this repository was applied to build a functional **Quantum Entanglement Visualization Engine** using Python and Qiskit.
-
-* **Project Goal:** To visualize the collapse of wave functions and the dynamics of decoherence.
-* **Verification:** The simulation logic was reviewed and verified by Prof. Unlu.
-* **Link to Project Repo:** [INSERT LINK TO YOUR SIMULATION REPO HERE]
-
----
-
 ## 📜 License
 These notes are open-sourced under the MIT License to encourage every interested person regardless of age to pursue rigorous theoretical study.
