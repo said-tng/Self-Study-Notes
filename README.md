@@ -30,27 +30,22 @@ The study was conducted in two distinct phases: **Mathematics** (The Toolset) an
 
 ## 📂 Repository Structure
 
-### `/01_Calculus_Foundations`
-* **Focus:** Axiomatic construction of Single Variable Calculus.
-* **Content:**
-    * [Foundational_Derivations.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/01_Calculus_Foundations/Foundational_Derivations.pdf): Rigorous proofs of the **Mean Value Theorem** and **Fundamental Theorem of Calculus**, derived from first principles using Apostol's axiomatic framework (Chapters 1-10).
-
-### `/02_Multivariable_Calculus_MIT_1802`
+### `/01_Multivariable_Calculus_MIT_1802`
 * **Focus:** Vector Analysis and Field Theory.
 * **Content:**
     * [Vector_Calculus_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/02_Multivariable_Calculus_MIT_1802/Vector_Calculus_Notes.pdf): Notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
 
-### `/03_Linear_Algebra_MIT_1806`
+### `/02_Linear_Algebra_MIT_1806`
 * **Focus:** Matrix Factorization and Spectral Theory.
 * **Content:**
     * [Linear_Algebra_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/03_Linear_Algebra_MIT_1806/Linear_Algebra_Notes.pdf): Detailed notes on **Singular Value Decomposition (SVD)** and the **Spectral Theorem** for Symmetric Matrices. Includes exploration of **Positive Definite Matrices** and their role in optimization.
 
-### `/04_Differential_Equations_MIT_1803`
+### `/03_Differential_Equations_MIT_1803`
 * **Focus:** Dynamic Systems and Transform Methods.
 * **Content:**
     * [Differential_Equations_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/04_Differential_Equations_MIT_1803/Differential_Equations_Notes.pdf): Analysis of **Non-Homogeneous Linear ODEs** using Variation of Parameters. Covers **Laplace Transforms**, **Convolution Integrals**, and **Delta Functions** for impulse response.
 
-### `/05_Quantum_Mechanics_MIT_804_805`
+### `/04_Quantum_Mechanics_MIT_804_805`
 * **Focus:** Wave mechanics, Operator formalism, and Entanglement.
 * **Content:**
     * [Quantum_Physics_1_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Quantum_Physics_1_Notes.pdf): Synthesized notes covering the **Schrödinger Equation**, **1D Potentials** (Infinite Well), and the **Harmonic Oscillator** (Algebraic & Analytic methods). Includes analysis of Scattering and Tunneling phenomena. Derivation of Spin Theory from its first principle.
