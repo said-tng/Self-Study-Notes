@@ -33,7 +33,7 @@ The study was conducted in two distinct phases: **Mathematics** (The Toolset) an
 ### `/01_Multivariable_Calculus_MIT_1802`
 * **Focus:** Vector Analysis and Field Theory.
 * **Content:**
-    * [Vector_Calculus_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/02_Multivariable_Calculus_MIT_1802/Vector_Calculus_Notes.pdf): Notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
+    * [Vector_Calculus_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/Multivariable_Calculus_Notes.pdf): Notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
 
 ### `/02_Linear_Algebra_MIT_1806`
 * **Focus:** Matrix Factorization and Spectral Theory.
